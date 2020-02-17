@@ -9,3 +9,5 @@ The purpose of this project is to use time-series analysis to forecast hourly en
 - Seaborn 0.10.0
 - Pystan 2.19.1.1
 - Fbprophet 0.5
+
+We start by pulling up 16 years of data (2002 - 2018).
